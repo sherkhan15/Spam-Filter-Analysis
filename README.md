@@ -1,0 +1,2 @@
+# Spam-Filter-Analysis
+When I finished the theoretical part, I wanted to try implementing some practical and real world example. I found it hard to begin since I didn’t know how to start. One of the simplest projects to start with was building a Spam Filter.  So now we are going to start from the bottom with real email messages and have them classified as spam and non-spam. The dataset that we are going to use is a preprocessed subset of the Ling-Spam Dataset, provided by Ion Androutsopoulos. 
